@@ -8,6 +8,7 @@ Hibernate (ORM)<br>
 Oracle Database<br>
 JDBC<br>
 XML Configuration<br>
+
 Features<br>
 ---------------<br>
 Add new employees<br>
