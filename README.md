@@ -1,19 +1,19 @@
-Employee Management System
-Project Overview
-This is a simple Employee Management System using Hibernate with Oracle Database. The application allows CRUD operations (Create, Read, Update, Delete) on Employee data.
-Technologies Used
---------------------
-Java
-Hibernate (ORM)
-Oracle Database
-JDBC
-XML Configuration
-Features
----------------
-Add new employees
-Update employee details
-Delete employees
-Retrieve a single employee by ID
-Retrieve all employees
-Retrieve employees based on salary criteria
-Retrieve employees using a native SQL query
+Employee Management System<br>
+Project Overview<br>
+This is a simple Employee Management System using Hibernate with Oracle Database. The application allows CRUD operations <br>(Create, Read, Update, Delete) on Employee data.<br>
+Technologies Used<br>
+--------------------<br>
+Java<br>
+Hibernate (ORM)<br>
+Oracle Database<br>
+JDBC<br>
+XML Configuration<br>
+Features<br>
+---------------<br>
+Add new employees<br>
+Update employee details<br>
+Delete employees<br>
+Retrieve a single employee by ID<br>
+Retrieve all employees<br>
+Retrieve employees based on salary criteria<br>
+Retrieve employees using a native SQL query<br>
