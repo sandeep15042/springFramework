@@ -1,6 +1,7 @@
+# SpringFramework Project <br>
 Employee Management System<br>
 Project Overview<br>
-This is a simple Employee Management System using Hibernate with Oracle Database. The application allows CRUD operations <br>(Create, Read, Update, Delete) on Employee data.<br>
+This is a simple Employee Management System using Hibernate with Oracle Database. The application allows CRUD operations(Create, Read, Update, Delete) on Employee data.<br>
 Technologies Used<br>
 --------------------<br>
 Java<br>
